@@ -1,4 +1,3 @@
-
 # Bienvenidos soy Fernando Aramayo o PlushSTP y este es mi GitHub
 
 Soy Full Stack Developer, amante de la tecnología en sus versiones Hard y Soft. Un curioso más de la potencialidad de las IAs. Y estoy muy emocionado por formar parte de la gran comunidad de Coders de todo el mundo, y me encantaría poder colaborar en todos los proyectos desafiantes que le esperan a la humanidad.
